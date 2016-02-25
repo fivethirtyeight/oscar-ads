@@ -1,6 +1,6 @@
 ### Oscar ads
 
-This directory contains data behind the story [Hollywood Studios  Barely Promote Non-White Actors and Films](http://fivethirtyeight.com/features/oscars-diversity-hollywood-ad-campaign).
+This directory contains data behind the story [Hollywood Studios Barely Promoted Non-White Actors and Films](http://fivethirtyeight.com/features/oscars-diversity-hollywood-ad-campaign).
 
 This is an inventory of "For Your Consideration" advertisements placed in Variety and The Hollywood Reporter from the beginning of November 2015 through the last issue published before the 2016 Academy Awards nomination voting deadline. 
 
